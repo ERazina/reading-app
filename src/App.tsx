@@ -1,6 +1,5 @@
 import { useState, useRef } from "react";
 import { FaPlay, FaPause, FaStop } from "react-icons/fa";
-// import { useCurrentSentence } from './hooks/hook';
 import "./App.css";
 
 function App() {
